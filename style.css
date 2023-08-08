@@ -1,0 +1,664 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(8, 137, 129, 1) 100%
+  );
+  width: 1350px;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.menu {
+  background: #060606;
+  padding: 140px 46px 0px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 1080px;
+  position: absolute;
+  right: 1090px;
+  top: 0px;
+}
+.button {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 5px 20px 5px 7px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 184px;
+  height: 48px;
+  position: relative;
+}
+.frame-1171275840 {
+  background: #e65f2b;
+  border-radius: 24px;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.icons {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.create-new-project {
+  color: #171717;
+  text-align: left;
+  font: 400 14px "OCR A Extended", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1171275841 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.expand-tab {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 13px 26px 13px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 184px;
+  position: relative;
+}
+.icons2 {
+  flex-shrink: 0;
+  width: 22px;
+  height: 22px;
+  position: relative;
+}
+.vuesax-linear-category-2 {
+  position: absolute;
+  inset: 0;
+}
+.category-2 {
+  position: absolute;
+  left: 1.15px;
+  top: 1.15px;
+  overflow: visible;
+}
+.dashboard {
+  color: #e65f2b;
+  text-align: left;
+  font: 400 14px "OCR A Extended", sans-serif;
+  position: relative;
+}
+.expand-tab2 {
+  padding: 13px 26px 13px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 160px;
+  position: relative;
+}
+.vuesax-linear-briefcase {
+  position: absolute;
+  inset: 0;
+}
+.briefcase {
+  position: absolute;
+  left: 1.37px;
+  top: 1.15px;
+  overflow: visible;
+}
+.dashboard2 {
+  color: #f1f1f1;
+  text-align: left;
+  font: 400 14px "OCR A Extended", sans-serif;
+  position: relative;
+}
+.vuesax-linear-task {
+  position: absolute;
+  inset: 0;
+}
+.task {
+  position: absolute;
+  left: 2.06px;
+  top: 2.52px;
+  overflow: visible;
+}
+.vuesax-linear-cpu-setting {
+  position: absolute;
+  inset: 0;
+}
+.cpu-setting {
+  position: absolute;
+  left: 1.15px;
+  top: 1.15px;
+  overflow: visible;
+}
+.vuesax-linear-clock {
+  position: absolute;
+  inset: 0;
+}
+.clock {
+  position: absolute;
+  left: 1.15px;
+  top: 1.15px;
+  overflow: visible;
+}
+.vuesax-linear-data {
+  position: absolute;
+  inset: 0;
+}
+.data {
+  position: absolute;
+  left: 20.85px;
+  top: 1.15px;
+  transform: translate(-19.71px, 0px);
+  overflow: visible;
+}
+.vuesax-linear-people {
+  position: absolute;
+  inset: 0;
+}
+.people {
+  width: 19.68px;
+  height: 19.71px;
+  position: static;
+}
+.group {
+  position: absolute;
+  left: 13.37px;
+  top: 1.15px;
+  overflow: visible;
+}
+.group2 {
+  position: absolute;
+  left: 1.15px;
+  top: 1.15px;
+  overflow: visible;
+}
+.group3 {
+  position: absolute;
+  left: 6.68px;
+  top: 7.99px;
+  overflow: visible;
+}
+.vuesax-linear-layer {
+  position: absolute;
+  inset: 0;
+}
+.layer {
+  position: absolute;
+  left: 2.06px;
+  top: 1.78px;
+  overflow: visible;
+}
+.frame-1171275843 {
+  background: #ffffff;
+  border-radius: 17px;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 245px;
+  top: 30px;
+  box-shadow: 2px 2px 8px 0px rgba(0, 0, 0, 0.1);
+}
+.icons3 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ciph-3-r-osnit {
+  color: #ffffff;
+  text-align: left;
+  font: 700 25px "Orbitron", sans-serif;
+  position: absolute;
+  left: 30px;
+  top: 44px;
+  width: 215px;
+  height: 60px;
+}
+.dashboard3 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 40px "Patrick Hand", sans-serif;
+  position: absolute;
+  left: 307px;
+  top: 23px;
+  width: 467px;
+  height: 45px;
+}
+.ellipse-1 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  left: 1209px;
+  top: 29px;
+}
+.icons-8-user-48-1 {
+  width: 50px;
+  height: 54.05px;
+  position: absolute;
+  left: calc(50% - -537px);
+  top: calc(50% - 511px);
+}
+.user-hayden {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Patrick Hand", sans-serif;
+  position: absolute;
+  left: 1015px;
+  top: 38px;
+  width: 181px;
+  height: 37px;
+}
+.line-1 {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.46);
+  border-width: 1px 0 0 0;
+  width: 1042.02px;
+  height: 0px;
+  position: absolute;
+  left: 271px;
+  top: 110px;
+  transform-origin: 0 0;
+  transform: rotate(-0.341deg) scale(1, 1);
+}
+.social-media-osint {
+  color: #ffffff;
+  text-align: left;
+  font: 700 15px "Orbitron", sans-serif;
+  position: absolute;
+  left: 308px;
+  top: 124px;
+  width: 215px;
+  height: 28px;
+}
+.frame-1171275844 {
+  width: 1014px;
+  height: 104px;
+  position: absolute;
+  left: 299px;
+  top: 168px;
+  overflow: hidden;
+}
+.icons-8-instagram-100-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 90px;
+  top: 14px;
+}
+.icons-8-facebook-100-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 12px;
+}
+.icons-8-linkedin-100-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 180px;
+  top: 14px;
+}
+.icons-8-discord-100-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 271px;
+  top: 14px;
+}
+.icons-8-telegram-100-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 361px;
+  top: 14px;
+}
+.icons-8-whatsapp-100-1 {
+  opacity: 0.8999999761581421;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 452px;
+  top: 14px;
+}
+.icons-8-snapchat-circled-logo-100-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 547px;
+  top: 12px;
+}
+.icons-8-twitter-100-1 {
+  opacity: 0.800000011920929;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 631px;
+  top: 12px;
+}
+.icons-8-github-100-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 711px;
+  top: 12px;
+}
+.icons-8-reddit-100-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 809px;
+  top: 14px;
+}
+.icons-8-pinterest-100-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 914px;
+  top: 14px;
+}
+.frame-1171275845 {
+  width: 950px;
+  height: 97px;
+  position: absolute;
+  left: 344px;
+  top: 377px;
+  overflow: hidden;
+}
+.icons-8-web-scraper-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 279px;
+  top: 8px;
+}
+.icons-8-data-encryption-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 377px;
+  top: 8px;
+}
+.icons-8-visit-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 475px;
+  top: 8px;
+}
+.icons-8-search-property-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 555px;
+  top: 8px;
+}
+.icons-8-ptz-camera-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 635px;
+  top: 8px;
+}
+.icons-8-web-address-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 715px;
+  top: 8px;
+}
+.icons-8-dns-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 795px;
+  top: 8px;
+}
+.advance-osint {
+  color: #ffffff;
+  text-align: left;
+  font: 400 26px "OCR A Extended", sans-serif;
+  position: absolute;
+  left: 320px;
+  top: 312px;
+  width: 346px;
+  height: 37px;
+}
+.icons-8-facial-recognition-100-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 523px;
+  top: 380px;
+}
+.icons-8-phone-100-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 344px;
+  top: 380px;
+}
+.icons-8-email-sign-100-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 429px;
+  top: 380px;
+}
+.frame-1171275846 {
+  width: 950px;
+  height: 97px;
+  position: absolute;
+  left: 299px;
+  top: 528px;
+  overflow: hidden;
+}
+.icons-8-archive-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 45px;
+  top: 8px;
+}
+.icons-8-face-id-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 125px;
+  top: 8px;
+}
+.icons-8-virus-free-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 221px;
+  top: 8px;
+}
+.icons-8-translate-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 317px;
+  top: 8px;
+}
+.icons-8-car-badge-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 413px;
+  top: 8px;
+}
+.icons-8-ethernet-on-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 509px;
+  top: 8px;
+}
+.icons-8-rss-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 605px;
+  top: 8px;
+}
+.icons-8-onion-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 701px;
+  top: 8px;
+}
+.icons-8-face-swapper-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 797px;
+  top: 8px;
+}
+.frame-1171275847 {
+  width: 950px;
+  height: 97px;
+  position: absolute;
+  left: 314px;
+  top: 667px;
+  overflow: hidden;
+}
+.icons-8-threat-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 45px;
+  top: 8px;
+}
+.icons-8-email-open-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 429px;
+  top: 0px;
+}
+.icons-8-terrorism-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 141px;
+  top: 8px;
+}
+.icons-8-phishing-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 237px;
+  top: 8px;
+}
+.icons-8-listing-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 333px;
+  top: 8px;
+}
+.icons-8-hashtag-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 621px;
+  top: 8px;
+}
+.icons-8-social-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 717px;
+  top: 8px;
+}
+.icons-8-google-80-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 813px;
+  top: 8px;
+}
+.developed-by-cubernetixs-by-0-x-hayden-0-x-varadacode-aldrincode {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "OCR A Extended", sans-serif;
+  position: absolute;
+  left: calc(50% - 158px);
+  top: calc(50% - -422px);
+  width: 685px;
+  height: 56px;
+}
+.know-more-at-https-cubertexis-github-io {
+  color: #0a0a0a;
+  text-align: center;
+  font: 400 24px "OCR A Extended", sans-serif;
+  position: absolute;
+  left: 267px;
+  top: 1038px;
+  width: 638px;
+  height: 42px;
+}
+.contact-technicalhayden {
+  color: #0a0a0a;
+  text-align: center;
+  font: 400 24px "OCR A Extended", sans-serif;
+  position: absolute;
+  left: 970px;
+  top: 1038px;
+  width: 356px;
+  height: 29px;
+}
+. {
+  color: #1ef5cf;
+  text-align: center;
+  font: 400 26px "OCR A Extended", sans-serif;
+  position: absolute;
+  left: 751px;
+  top: 922px;
+  width: 162px;
+  height: 40px;
+}
+.icons-8-wifi-80-1 {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 848px;
+    top: 675px;
+  }
